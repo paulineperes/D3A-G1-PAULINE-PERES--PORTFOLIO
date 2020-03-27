@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Noto+Serif+SC|Work+Sans&display=swap');
+body {
+  font-family: sans-serif;
+}
+  .material-icons {
+  font-size: 3em !important;
+}
+
+header {
+  background: white;
+}
+h1 {
+  font-size: 3em;
+  padding-top: 1.5em;
+  margin-bottom: 1.5em;
+  text-align: center;
+}
+h2 {
+  font-size: 1.5em;
+  margin-bottom: 1em;
+}
+a {
+  text-decoration: none;
+  color: black;
+  }
+
+li {
+  font-size: 1.5em;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+.lien {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2em;
+  text-align: center;
+
+}
